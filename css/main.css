@@ -21,7 +21,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     box-shadow: 0px 0px 33px 8px #000;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .img {
